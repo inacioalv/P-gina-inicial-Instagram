@@ -1,5 +1,5 @@
 <h1 align="center">
-       Pagina-inicial-Instagram
+       Pagina Instagram
 </h1>
 
 <p align="center">
