@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Clone de tela home da Netflix
+Clone da Pagina Instagram
 
 <img alt="Moveit" src="img\instagram.png" />
 
