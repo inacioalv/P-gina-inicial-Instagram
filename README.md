@@ -27,4 +27,8 @@ Clone da Pagina Instagram
 
 <img alt="Moveit" src="img\instagram.png" />
 
+## 📝 Licença
+
+Este projeto esta sobe a licença MIT. Veja a [LICENÇA](https://opensource.org/licenses/MIT) para saber mais.
+
 
